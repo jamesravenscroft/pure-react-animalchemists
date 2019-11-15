@@ -1,5 +1,6 @@
 ## Animalchemists React Build for Cordova 
-
+![SplashPage](https://github.com/jamesravenscroft/pure-react-animalchemists/blob/master/startPage.gif
+)
 
 ## Plate of the Boiler is below
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
