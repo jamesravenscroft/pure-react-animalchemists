@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72d203217971f893019d12d410646675",
+    "revision": "d9e555ab47d12cefcc542622997aea48",
     "url": "/pure-react-animalchemists/index.html"
   },
   {
-    "revision": "0d480ce54390879fef8d",
+    "revision": "2def4988bec9b7a74a9b",
     "url": "/pure-react-animalchemists/static/css/main.185a6522.chunk.css"
   },
   {
-    "revision": "d85a9aff19495b0fce70",
-    "url": "/pure-react-animalchemists/static/js/2.f29c9ce3.chunk.js"
+    "revision": "6c14f135858e9f1f7c3c",
+    "url": "/pure-react-animalchemists/static/js/2.cfefd025.chunk.js"
   },
   {
-    "revision": "0d480ce54390879fef8d",
-    "url": "/pure-react-animalchemists/static/js/main.1c5d2522.chunk.js"
+    "revision": "2def4988bec9b7a74a9b",
+    "url": "/pure-react-animalchemists/static/js/main.60a7f9fe.chunk.js"
   },
   {
     "revision": "64d35ca6e4cb95605f17",
