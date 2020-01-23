@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pure-react-animalchemists/static/css/main.185a6522.chunk.css",
-    "main.js": "/pure-react-animalchemists/static/js/main.60a7f9fe.chunk.js",
-    "main.js.map": "/pure-react-animalchemists/static/js/main.60a7f9fe.chunk.js.map",
+    "main.js": "/pure-react-animalchemists/static/js/main.63598fe0.chunk.js",
+    "main.js.map": "/pure-react-animalchemists/static/js/main.63598fe0.chunk.js.map",
     "runtime-main.js": "/pure-react-animalchemists/static/js/runtime-main.ab54a29e.js",
     "runtime-main.js.map": "/pure-react-animalchemists/static/js/runtime-main.ab54a29e.js.map",
     "static/js/2.cfefd025.chunk.js": "/pure-react-animalchemists/static/js/2.cfefd025.chunk.js",
     "static/js/2.cfefd025.chunk.js.map": "/pure-react-animalchemists/static/js/2.cfefd025.chunk.js.map",
     "index.html": "/pure-react-animalchemists/index.html",
-    "precache-manifest.1ff3b7500c81e6827bd6b7276b1d24ac.js": "/pure-react-animalchemists/precache-manifest.1ff3b7500c81e6827bd6b7276b1d24ac.js",
+    "precache-manifest.eb0bd384c94a03a5f4f956534d1e6ac8.js": "/pure-react-animalchemists/precache-manifest.eb0bd384c94a03a5f4f956534d1e6ac8.js",
     "service-worker.js": "/pure-react-animalchemists/service-worker.js",
     "static/css/main.185a6522.chunk.css.map": "/pure-react-animalchemists/static/css/main.185a6522.chunk.css.map",
     "static/media/49.jpg": "/pure-react-animalchemists/static/media/49.993cd844.jpg",
@@ -132,6 +132,6 @@
     "static/js/runtime-main.ab54a29e.js",
     "static/js/2.cfefd025.chunk.js",
     "static/css/main.185a6522.chunk.css",
-    "static/js/main.60a7f9fe.chunk.js"
+    "static/js/main.63598fe0.chunk.js"
   ]
 }
